@@ -81,7 +81,7 @@ You can easily deploy this project to Streamlit Cloud by following these steps:
    Once deployed, Streamlit will provide you with a URL where your app is live and accessible to others.
 
 ## License
-This project is licensed under the MIT License - see the `LICENSE` file for details.
+This project is licensed under the Apache License - see the `LICENSE` file for details.
 
 ## Contributing
 Contributions are welcome! Please submit a pull requests.
